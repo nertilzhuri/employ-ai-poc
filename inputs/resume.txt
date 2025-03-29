@@ -1,0 +1,51 @@
+John Doe
+New York, USA
+Email: johndoe@email.com
+Phone: (555) 123-4567
+
+Professional Summary
+Experienced Backend Developer with 5 years of expertise in building scalable web applications using Python and Django. Strong knowledge of REST API development and database management. Passionate about optimizing backend performance and enhancing security.
+
+Skills
+Python, Django, Flask
+
+REST API development
+
+PostgreSQL, MySQL
+
+Docker, Kubernetes
+
+Cloud computing (AWS, GCP)
+
+Unit testing & debugging
+
+Work Experience
+Backend Developer – Tech Solutions, New York, USA (2019 - Present)
+
+Developed and maintained RESTful APIs for various web applications.
+
+Optimized database queries, reducing load times by 30%.
+
+Implemented authentication and security best practices.
+
+Led a team of junior developers and conducted code reviews.
+
+Software Engineer Intern – DevStart, New York, USA (2018 - 2019)
+
+Assisted in backend development using Flask and PostgreSQL.
+
+Created automated scripts for data processing and migration.
+
+Education
+BSc in Computer Science, New York University (2014 - 2018)
+
+Certifications
+AWS Certified Developer – Associate
+
+Python for Data Science & Machine Learning (Udemy)
+
+Preferred Roles
+Backend Developer
+
+Software Engineer
+

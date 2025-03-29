@@ -1,0 +1,6 @@
+find_best_jobs:
+  description: >
+    Identify the best job opportunities for a {candidate} based on their profile within {jobs_list}.
+  expected_output: >
+    A ranked list of the most suitable job opportunities for the candidate. Provide the data in a structured manner formatted as markdown.
+  agent: job_matcher

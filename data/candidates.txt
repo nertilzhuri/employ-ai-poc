@@ -1,0 +1,35 @@
+candidates:
+  - name: John Doe
+    experience: 5 years
+    skills: ["Python", "Django", "REST APIs"]
+    education: "BSc Computer Science"
+    location: "New York, USA"
+    preferred_roles: ["Backend Developer", "Software Engineer"]
+
+  - name: Jane Smith
+    experience: 7 years
+    skills: ["JavaScript", "React", "Node.js"]
+    education: "MSc Software Engineering"
+    location: "London, UK"
+    preferred_roles: ["Frontend Developer", "Full-Stack Developer"]
+
+  - name: Robert Johnson
+    experience: 3 years
+    skills: ["Java", "Spring Boot", "Microservices"]
+    education: "BSc Information Technology"
+    location: "San Francisco, USA"
+    preferred_roles: ["Software Engineer", "Backend Developer"]
+
+  - name: Emily Davis
+    experience: 10 years
+    skills: ["C++", "Game Development", "Unreal Engine"]
+    education: "BSc Game Design"
+    location: "Berlin, Germany"
+    preferred_roles: ["Game Developer", "Software Architect"]
+
+  - name: Michael Brown
+    experience: 6 years
+    skills: ["Data Science", "Machine Learning", "TensorFlow"]
+    education: "PhD Artificial Intelligence"
+    location: "Toronto, Canada"
+    preferred_roles: ["Data Scientist", "ML Engineer"]

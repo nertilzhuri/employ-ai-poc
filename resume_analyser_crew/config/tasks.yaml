@@ -1,0 +1,14 @@
+extract_resume_data:
+    description: >
+      Analyze the following resume and extract key details such as name, contact info, skills, experience, and education from a resume: {resume}.
+    expected_output: >
+      A structured JSON object with extracted resume data.
+    agent: resume_data_extractor
+
+resume_assessment:
+  description: >
+    Analyze the following resume to identify key strengths, weaknesses, and missing skills: {resume}.
+  expected_output: >
+    A structured analysis detailing strengths, weaknesses, and areas for improvement. Formatted as markdown.
+  agent: resume_analyst
+

@@ -1,0 +1,30 @@
+jobs:
+  - title: Backend Developer
+    company: "TechCorp"
+    location: "New York, USA"
+    requirements: ["Python", "Django", "REST APIs", "5+ years experience"]
+    preferred_background: "BSc Computer Science or related field"
+
+  - title: Frontend Developer
+    company: "Web Innovations"
+    location: "London, UK"
+    requirements: ["JavaScript", "React", "Node.js", "5+ years experience"]
+    preferred_background: "MSc Software Engineering or related field"
+
+  - title: Software Engineer
+    company: "CodeWorks"
+    location: "San Francisco, USA"
+    requirements: ["Java", "Spring Boot", "Microservices", "3+ years experience"]
+    preferred_background: "BSc Information Technology or related field"
+
+  - title: Game Developer
+    company: "NextGen Games"
+    location: "Berlin, Germany"
+    requirements: ["C++", "Game Development", "Unreal Engine", "7+ years experience"]
+    preferred_background: "BSc Game Design or related field"
+
+  - title: Data Scientist
+    company: "AI Insights"
+    location: "Toronto, Canada"
+    requirements: ["Data Science", "Machine Learning", "TensorFlow", "5+ years experience"]
+    preferred_background: "PhD Artificial Intelligence or related field"
