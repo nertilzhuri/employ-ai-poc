@@ -1,0 +1,6 @@
+find_best_candidates:
+  description: >
+    Identify the best candidate profile within {candidates_list} for a job opportunities with the given requirements {job_query}.
+  expected_output: >
+    A ranked list of the most suitable candidates for the given job. Provide the data in a structured manner formatted as markdown.
+  agent: candidate_matcher

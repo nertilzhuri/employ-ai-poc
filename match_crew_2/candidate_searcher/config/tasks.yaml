@@ -1,0 +1,7 @@
+search_candidates:
+  description: >
+    Filter candidates within {candidates_list} with the given search query: {query}.
+  expected_output: >
+    A well structured list of candidates with their information from the dataset, filtered by the given query. 
+    Provide the data in a structured manner formatted as markdown
+  agent: candidate_searcher
